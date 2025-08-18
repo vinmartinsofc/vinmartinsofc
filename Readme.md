@@ -1,9 +1,6 @@
-
-# Prazer! Meu nome é Marcos, mas talvez você me conheça como Vin Martins. Uso esse nome como identidade criativa nos meus projetos e estudos na área de tecnologia.
-
 ## Bem-vindo ao meu perfil 👋
 
-*Nasci no Rio de Janeiro e acredito que viver de tecnologia seja minha vocação. Tenho 31 anos e atualmente estudo programação na Alura! Gosto muito de criar e ouvir músicas, meus esportes favoritos são Boxing e Golfe.*
+*Nasci no Rio de Janeiro e acredito que viver de tecnologia seja minha vocação, meus esportes favoritos são Boxing e Golfe.*
 
 ---
 
@@ -27,6 +24,18 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" alt="Git"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+  </a>
+  <a href="https://insomnia.rest/" target="_blank" title="Insomnia">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="50" alt="Insomnia"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" alt="Postman"/>
   </a>
 </div>
 
