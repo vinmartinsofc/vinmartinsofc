@@ -2,6 +2,8 @@
 
 *Nasci no Rio de Janeiro e acredito que viver de tecnologia seja minha vocação, meus esportes favoritos são Boxing e Golfe. Também sou um entusiasta da produção de música eletrônica (Ableton <3), gosto de vários subgêneros da EDM e também do Rock.*
 
+Você pode conferir tudo (ou quase) que eu sei [aqui](https://cursos.alura.com.br/user/vinmartinsofc/fullCertificate/e435d4cf265ec2489261465b8bc267ab) 
+
 ---
 
 **Conhecimentos em:**
