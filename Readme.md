@@ -1,12 +1,12 @@
-## Bem-vindo ao meu perfil 👋
+## Welcome to my profile 👋
 
-*Nasci no Rio de Janeiro e acredito que viver de tecnologia seja minha vocação, meus esportes favoritos são Boxing e Golfe. Também sou um entusiasta da produção de música eletrônica (Ableton <3), gosto de vários subgêneros da EDM e também do Rock.*
+*I love to program, make music and Sci-Fi/Action Movies.*
 
-Você pode conferir tudo (ou quase) que eu aprendi na Alura [aqui](https://cursos.alura.com.br/user/vinmartinsofc/fullCertificate/e435d4cf265ec2489261465b8bc267ab) 
+My first contact with programming was here: [aqui](https://cursos.alura.com.br/user/vinmartinsofc/fullCertificate/e435d4cf265ec2489261465b8bc267ab) 
 
 ---
 
-**Conhecimentos em:**
+**Mastering my knowledge in :**
 
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="https://www.java.com" target="_blank" title="Java">
