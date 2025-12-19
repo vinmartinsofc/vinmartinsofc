@@ -6,7 +6,7 @@ My first contact with programming was here: [aqui](https://cursos.alura.com.br/u
 
 ---
 
-** Studying and Mastering my knowledge in :**
+** Studying and Mastering my knowledge in: **
 
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="https://www.java.com" target="_blank" title="Java">
