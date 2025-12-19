@@ -1,12 +1,12 @@
 ## Welcome to my profile 👋
 
-*I love to program, make music and Sci-Fi/Action Movies.*
+*I love to program, make music and Sci-Fi things.*
 
 My first contact with programming was here: [aqui](https://cursos.alura.com.br/user/vinmartinsofc/fullCertificate/e435d4cf265ec2489261465b8bc267ab) 
 
 ---
 
-**Mastering my knowledge in :**
+** Studying and Mastering my knowledge in :**
 
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="https://www.java.com" target="_blank" title="Java">
