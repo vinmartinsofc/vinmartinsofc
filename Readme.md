@@ -2,7 +2,7 @@
 
 *I love to program, make music and Sci-Fi things.*
 
-My first contact with programming was here: [aqui](https://cursos.alura.com.br/user/vinmartinsofc/fullCertificate/e435d4cf265ec2489261465b8bc267ab) 
+My first contact with programming was : [here](https://cursos.alura.com.br/user/vinmartinsofc/fullCertificate/e435d4cf265ec2489261465b8bc267ab) 
 
 ---
 
