@@ -1,6 +1,6 @@
 ## Hi I'm Marcos but... you can call me Vin Martins, Welcome to my profile 👋
 
-*I love to program, make music and Sci-Fi things.*
+*BSI Student and Music Producer*
 
 ---
 
