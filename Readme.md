@@ -1,6 +1,6 @@
-## Hi I'm Marcos but... you can call me Vin Martins, Welcome to my profile 👋
+ 👋
 
-*BSI Student and Music Producer*
+## *BSI Student and Music Producer.*
 
 ---
 
@@ -29,6 +29,14 @@
   </a>
   <a href="https://spring.io/" target="_blank" title="Spring">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" alt="Spring"/>
+  </a>
+
+  <a href="https://maven.apache.org/" target="_blank" title="Maven">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="50" alt="Maven"/>
+  </a>
+
+  <a href="https://gradle.org/" target="_blank" title="Gradle">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="50" alt="Gradle"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
